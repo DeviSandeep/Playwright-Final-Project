@@ -40,7 +40,7 @@ export default defineConfig({
     video:'on',
     launchOptions:{
       slowMo:1000,
-      headless:false
+      headless:true
     }
   },
 
